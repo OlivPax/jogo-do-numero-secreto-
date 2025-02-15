@@ -32,5 +32,3 @@ O "Jogo do Número Secreto" é uma aplicação interativa desenvolvida como part
 ## 👥 Contribuidores
  [<img loading="lazy" src="https://github.com/user-attachments/assets/0e1618d7-ba37-4bf0-b533-bde30426f4fe"
 width=115><br><sub>Laura Paes</sub>](https://github.com/OlivPax)
-- Gabrielle Ribeiro (alura)
-- Rodrigo Caneppele (alura)
